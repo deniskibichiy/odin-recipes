@@ -1,0 +1,30 @@
+body{
+    background-color: #023047;
+    font-family: 'Tahoma', 'Arial', sans-serif;
+    color: #8ECAE6;
+    font-size: 20px;
+}
+
+.recipe-image{
+    width: 350px;
+    height: auto;
+}
+
+h1,
+h2{
+    font-weight: 800;
+    color:  #FB8500;
+}
+
+h1{
+    font-size: 26px;
+}
+
+h2{
+    font-size: 24px;
+}
+
+ol li a,
+ul li a{
+    color: #FFB703;
+}
