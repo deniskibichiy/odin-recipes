@@ -21,19 +21,27 @@ A simple recipe website to apply basic HTML concepts: Tags, Comments, Links and 
 * Text alignment:
 * font-size:
 ### H1 (recipe title)
-### H2 (description, ingredients, steps)
-* Color:
+Color: 
 * Text alignment:
-* font-size:
+* font-size: 24px
+* font-weight: bold
+* font-size: italic
+### H2 (description, ingredients, steps)
+* Color: 
+* Text alignment:
+* font-size: 20px
+* font-weight: bold
+* font-size: italic
 ### recipe-images
 * width: 250 px
 * Height: auto
 ### Ingredients (unordered lists)
 * Background-color: light orange
-* font-size: 
+* font-size: 18px
 * color: dark gray
-* text-align:
+* text-align: justify
 ### Steps (ordered lists)
-* Background-color:
-* font-size:
-* text-align:
+* Background-color: slightly lighter gray
+* font-size: 18 px
+* color: medium gray
+* text-align: left
