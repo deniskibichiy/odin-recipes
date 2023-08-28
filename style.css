@@ -6,14 +6,20 @@ body{
 }
 
 .recipe-image{
+    display: block;
     width: 350px;
     height: auto;
+    margin: 10px auto;
+    border: solid 10px #FB8500;
 }
 
 h1,
 h2{
+   max-width: 400px;
+    margin: 0 auto;
     font-weight: 800;
     color:  #FB8500;
+    padding: 10px 0;
 }
 
 h1{
@@ -26,5 +32,7 @@ h2{
 
 ol li a,
 ul li a{
+    display: inline-block;
     color: #FFB703;
+    margin: 5px 0; 
 }
